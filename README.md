@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoL559
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning C on harvards CS50x course!
+- 🌱 I’m currently beginning to learn C on harvards CS50x course!
 - 💞️ I’m looking to collaborate on anything that could help me learn!
 - 📫 How to reach me ... Discord!
 
